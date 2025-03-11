@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <h3>ABOUT ME</h3>
 <p>
-🚀 Hello, my name is Enjifanno Tamiru Urgessa, and I'm a passionate Flutter Developer ,web and Mobile App Developer on a mission to make digital ideas a reality.  I am passionate about incorporating new ideas and technologies into products that make life easier and more beautiful.  My code is an artwork on which creativity meets elegance, and each project is a work in progress. 
+🚀 Hello, my name is Enjifanno Tamiru Urgessa, and I'm a passionate Flutter Developer , Mobile App Developer and full stack web developer, on a mission to make digital ideas a reality.  I am passionate about incorporating new ideas and technologies into products that make life easier and more beautiful.  My code is an artwork on which creativity meets elegance, and each project is a work in progress. 
 
 I surpass conventional boundaries with a sharp eye for detail and a flare for UI/UX design, developing applications that not only operate effectively but also capture the user's imagination.I enjoy focusing on quality and continuous progress. I believe everything is possible 💻✨ #FlutterMagic #MobileAppMaestro 📱
 
