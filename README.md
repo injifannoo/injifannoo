@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<!-- <h1 align="center">Hello, I'm Enjifanno Tamiru Urgessa</h1>
-<h3 align="center">Computer Science GC at Addis Ababa University. Keen Interest in Flutter And Mobile developer. Flutter Enthusiast</h3>
+<!-- <h1 align="center">Hello, I'm Enjifanno Tamiru</h1>
+<h3 align="center">I’m a Software Developer with over 3 years of experience in the software development and tech industry. specialize in Flutter, React, and Next.js, with additional experience in video editing and Photoshop for creative projects. h3>
 
 - 💬 Ask me about **Flutter**
 
@@ -38,9 +38,16 @@ Here are some ideas to get you started:
 
 <h3>ABOUT ME</h3>
 <p>
-🚀 Hello, my name is Enjifanno Tamiru Urgessa, and I'm a passionate Flutter Developer , Mobile App Developer and full stack web developer, on a mission to make digital ideas a reality.  I am passionate about incorporating new ideas and technologies into products that make life easier and more beautiful.  My code is an artwork on which creativity meets elegance, and each project is a work in progress. 
+🚀 Hello, my name is Enjifanno Tamiru Urgessa. 
+I’m a Software Developer with over 3 years of experience in the software development and tech industry.
 
-I surpass conventional boundaries with a sharp eye for detail and a flare for UI/UX design, developing applications that not only operate effectively but also capture the user's imagination.I enjoy focusing on quality and continuous progress. I believe everything is possible 💻✨ #FlutterMagic #MobileAppMaestro 📱
+ I specialize in Flutter, React, and Next.js, with additional experience in video editing and Photoshop for creative projects. I’ve successfully led and contributed to projects involving database management, server deployments, and user-focused design.
+
+I hold a degree in Computer Science from Addis Ababa University and have worked on a variety of projects in mobile app development, web development, and backend systems.
+
+ I’m passionate about learning new and emerging technologies and continuously sharpening my skills. My problem-solving mindset, leadership abilities, adaptability, and strong communication skills have helped me thrive in diverse teams and fast-paced environments.
+
+I'm looking forward to taking on new challenges and delivering impactful solutions. 💻✨ #FlutterMagic #full-stack #react #AI #ML #Next.js 📱
 
 </p>
 <br/><br/>
